@@ -14,7 +14,7 @@ function checkAnswer() {
     feedback.style.color = "green"
   }
   else {
-    feedback.textContent = "That is Incorrect! try again"
+    feedback.textContent = "That's incorrect. Try again!"
     feedback.style.color = "red"
   }
 } 
